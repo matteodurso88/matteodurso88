@@ -13,6 +13,7 @@ I focus on turning ideas and manual business processes into working digital prod
 - SaaS and product MVPs;
 - backend services and REST APIs;
 - integrations between external services;
+- containerized development and deployment environments;
 - business process automation.
 
 I use AI-assisted development workflows to accelerate analysis, prototyping and implementation while maintaining direct human control over architecture, code quality, testing, security and delivery.
@@ -22,6 +23,7 @@ I use AI-assisted development workflows to accelerate analysis, prototyping and 
 - **Python** — backend development, automation, data processing, APIs and desktop applications with Qt;
 - **TypeScript / JavaScript** — full-stack development with Vue, Nuxt, React, Next.js, Node.js and Nitro;
 - **Cross-platform desktop development** — Tauri-based products and Python/Qt applications;
+- **Docker and containerized infrastructure** — reproducible environments, multi-service applications, service isolation and deployment-oriented workflows;
 - **Product engineering** — authentication, databases, dashboards, admin tools, APIs, deployment and technical documentation;
 - **Go** — utilities, backend services and performance-oriented components;
 - **Technical SEO and accessibility** — performance, semantic structure, internationalization and maintainable content architecture.
@@ -30,6 +32,7 @@ I use AI-assisted development workflows to accelerate analysis, prototyping and 
 
 - **Vistario** — cross-platform application developed with Tauri and Nuxt;
 - **Oriqo Admin App** — administrative desktop application developed with Python and Qt;
+- **Oriqo infrastructure** — Docker-based environment for multiple application services and supporting components;
 - **matt88.it** — bilingual full-stack Nuxt website with advanced SEO, portfolio content and selected GitHub integrations.
 
 ### How I work
@@ -57,9 +60,10 @@ Trasformo idee e processi manuali in prodotti digitali funzionanti:
 - MVP SaaS e di prodotto;
 - servizi backend e API REST;
 - integrazioni tra servizi esterni;
+- ambienti di sviluppo e deploy containerizzati;
 - automazioni aziendali.
 
-La mia competenza principale è **Python**, affiancata dallo sviluppo full-stack in **TypeScript e JavaScript** con Vue, Nuxt, React e Next.js. Ho inoltre esperienza nello sviluppo desktop con Tauri e Qt e posso gestire servizi e componenti in Go.
+La mia competenza principale è **Python**, affiancata dallo sviluppo full-stack in **TypeScript e JavaScript** con Vue, Nuxt, React e Next.js. Ho inoltre esperienza nello sviluppo desktop con Tauri e Qt, nella realizzazione di infrastrutture Docker e nella gestione di servizi e componenti in Go.
 
 Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per velocizzare analisi, prototipazione e implementazione, mantenendo il controllo umano su architettura, qualità del codice, test, sicurezza e consegna.
 
@@ -68,6 +72,7 @@ Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per veloci
 - **Python** — backend, automazioni, elaborazione dati, API e applicazioni desktop con Qt;
 - **TypeScript / JavaScript** — sviluppo full-stack con Vue, Nuxt, React, Next.js, Node.js e Nitro;
 - **Sviluppo desktop multipiattaforma** — prodotti basati su Tauri e applicazioni Python/Qt;
+- **Docker e infrastrutture containerizzate** — ambienti riproducibili, applicazioni multi-servizio, isolamento dei servizi e workflow orientati al deploy;
 - **Product engineering** — autenticazione, database, dashboard, strumenti amministrativi, API, deploy e documentazione tecnica;
 - **Go** — utility, servizi backend e componenti orientati alle prestazioni;
 - **SEO tecnico e accessibilità** — performance, struttura semantica, internazionalizzazione e architettura dei contenuti.
@@ -76,6 +81,7 @@ Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per veloci
 
 - **Vistario** — applicazione multipiattaforma sviluppata con Tauri e Nuxt;
 - **Oriqo Admin App** — applicazione desktop amministrativa sviluppata con Python e Qt;
+- **Infrastruttura Oriqo** — ambiente basato su Docker per più servizi applicativi e componenti di supporto;
 - **matt88.it** — sito Nuxt full-stack bilingue con SEO avanzata, portfolio e integrazioni GitHub selezionate.
 
 ### Metodo di lavoro
@@ -121,7 +127,11 @@ Planned areas include:
 
 ### Desktop and integration
 
-`Tauri` · `Qt for Python` · `REST APIs` · `Git` · `GitHub` · `pnpm` · `Vercel`
+`Tauri` · `Qt for Python` · `REST APIs` · `Git` · `GitHub`
+
+### Infrastructure and delivery
+
+`Docker` · `Containerized environments` · `pnpm` · `Vercel`
 
 ---
 
