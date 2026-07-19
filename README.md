@@ -1,6 +1,6 @@
 # Hi, I'm Matteo D'Urso 👋
 
-## AI-assisted Full-Stack Software Developer
+## AI-assisted Full-Stack & Software Product Developer
 
 I design and build practical, maintainable software for professionals, small businesses and early-stage startups.
 
@@ -9,11 +9,28 @@ I focus on turning ideas and manual business processes into working digital prod
 - custom web applications;
 - internal management tools;
 - dashboards and admin panels;
+- desktop and cross-platform applications;
 - SaaS and product MVPs;
-- API integrations;
+- backend services and REST APIs;
+- integrations between external services;
 - business process automation.
 
 I use AI-assisted development workflows to accelerate analysis, prototyping and implementation while maintaining direct human control over architecture, code quality, testing, security and delivery.
+
+### Core strengths
+
+- **Python** — backend development, automation, data processing, APIs and desktop applications with Qt;
+- **TypeScript / JavaScript** — full-stack development with Vue, Nuxt, React, Next.js, Node.js and Nitro;
+- **Cross-platform desktop development** — Tauri-based products and Python/Qt applications;
+- **Product engineering** — authentication, databases, dashboards, admin tools, APIs, deployment and technical documentation;
+- **Go** — utilities, backend services and performance-oriented components;
+- **Technical SEO and accessibility** — performance, semantic structure, internationalization and maintainable content architecture.
+
+### Selected technical experience
+
+- **Vistario** — cross-platform application developed with Tauri and Nuxt;
+- **Oriqo Admin App** — administrative desktop application developed with Python and Qt;
+- **matt88.it** — bilingual full-stack Nuxt website with advanced SEO, portfolio content and selected GitHub integrations.
 
 ### How I work
 
@@ -21,13 +38,13 @@ I use AI-assisted development workflows to accelerate analysis, prototyping and 
 - pragmatic technical decisions;
 - iterative and verifiable delivery;
 - maintainable, documented code;
-- attention to performance, accessibility and SEO.
+- attention to performance, accessibility, security and SEO.
 
 ---
 
 # Ciao, sono Matteo D'Urso 👋
 
-## Sviluppatore Full-Stack con workflow AI-assisted
+## Sviluppatore Full-Stack e Software Product Developer con workflow AI-assisted
 
 Progetto e realizzo software concreto e manutenibile per professionisti, piccole imprese e startup in fase iniziale.
 
@@ -36,11 +53,30 @@ Trasformo idee e processi manuali in prodotti digitali funzionanti:
 - applicazioni web su misura;
 - gestionali interni;
 - dashboard e pannelli amministrativi;
+- applicazioni desktop e multipiattaforma;
 - MVP SaaS e di prodotto;
-- integrazioni API;
+- servizi backend e API REST;
+- integrazioni tra servizi esterni;
 - automazioni aziendali.
 
+La mia competenza principale è **Python**, affiancata dallo sviluppo full-stack in **TypeScript e JavaScript** con Vue, Nuxt, React e Next.js. Ho inoltre esperienza nello sviluppo desktop con Tauri e Qt e posso gestire servizi e componenti in Go.
+
 Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per velocizzare analisi, prototipazione e implementazione, mantenendo il controllo umano su architettura, qualità del codice, test, sicurezza e consegna.
+
+### Competenze principali
+
+- **Python** — backend, automazioni, elaborazione dati, API e applicazioni desktop con Qt;
+- **TypeScript / JavaScript** — sviluppo full-stack con Vue, Nuxt, React, Next.js, Node.js e Nitro;
+- **Sviluppo desktop multipiattaforma** — prodotti basati su Tauri e applicazioni Python/Qt;
+- **Product engineering** — autenticazione, database, dashboard, strumenti amministrativi, API, deploy e documentazione tecnica;
+- **Go** — utility, servizi backend e componenti orientati alle prestazioni;
+- **SEO tecnico e accessibilità** — performance, struttura semantica, internazionalizzazione e architettura dei contenuti.
+
+### Esperienze tecniche selezionate
+
+- **Vistario** — applicazione multipiattaforma sviluppata con Tauri e Nuxt;
+- **Oriqo Admin App** — applicazione desktop amministrativa sviluppata con Python e Qt;
+- **matt88.it** — sito Nuxt full-stack bilingue con SEO avanzata, portfolio e integrazioni GitHub selezionate.
 
 ### Metodo di lavoro
 
@@ -48,7 +84,7 @@ Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per veloci
 - decisioni tecniche pragmatiche;
 - consegne iterative e verificabili;
 - codice manutenibile e documentato;
-- attenzione a performance, accessibilità e SEO.
+- attenzione a performance, accessibilità, sicurezza e SEO.
 
 ---
 
@@ -73,9 +109,19 @@ Planned areas include:
 
 ---
 
-## Technologies
+## Technology stack
 
-`TypeScript` · `JavaScript` · `Vue` · `Nuxt` · `Node.js` · `Nitro` · `REST APIs` · `Git` · `GitHub` · `Vercel`
+### Languages
+
+`Python` · `TypeScript` · `JavaScript` · `Go` · `HTML` · `CSS` · `SQL`
+
+### Frontend and full-stack web
+
+`Vue` · `Nuxt` · `React` · `Next.js` · `Node.js` · `Nitro`
+
+### Desktop and integration
+
+`Tauri` · `Qt for Python` · `REST APIs` · `Git` · `GitHub` · `pnpm` · `Vercel`
 
 ---
 
