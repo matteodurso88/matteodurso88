@@ -13,7 +13,7 @@ I focus on turning ideas and manual business processes into working digital prod
 - SaaS and product MVPs;
 - backend services and REST APIs;
 - integrations between external services;
-- containerized development and deployment environments;
+- containerized environments and deployment workflows;
 - business process automation.
 
 I use AI-assisted development workflows to accelerate analysis, prototyping and implementation while maintaining direct human control over architecture, code quality, testing, security and delivery.
@@ -96,7 +96,7 @@ Utilizzo workflow di sviluppo assistiti dall'intelligenza artificiale per veloci
 
 ## Current project — Progetto attuale
 
-### matt88.it
+### [matt88.it](https://matt88.it)
 
 My personal and professional website, currently under development as a bilingual full-stack Nuxt application.
 
