@@ -59,16 +59,67 @@ I am available for selected software development projects involving applications
 
 ---
 
-## Italiano
+# Italiano
 
-Sono **Matteo D’Urso**, Software & Product Engineer.
+## Software & Product Engineer
 
-Progetto e sviluppo applicazioni, piattaforme, automazioni, API, software Linux e sistemi edge/IoT. Seguo il lavoro dall’analisi dei requisiti e dall’architettura fino a implementazione, test, deployment e documentazione tecnica.
+**Applicazioni · Piattaforme · Automazione · Linux · Edge/IoT**
 
-Parte del mio lavoro commerciale e R&D rimane in repository privati; su GitHub pubblico progetti open source e prove tecniche selezionate, mentre case study e portfolio completi sono disponibili su **[matt88.it](https://matt88.it/it/)**.
+Progetto e sviluppo sistemi software pratici end-to-end: dall’analisi dei requisiti e dall’architettura fino a implementazione, test, deployment e documentazione tecnica.
 
-## Contact
+Il mio lavoro comprende applicazioni web e desktop, API, automazione, tooling Linux, sistemi connessi, telemetria e ingegneria edge/IoT. Mi concentro su soluzioni manutenibili che risolvono problemi aziendali e tecnici reali, evitando tecnologia fine a se stessa.
+
+## Lavori selezionati
+
+| Progetto | Cosa dimostra | Link |
+|---|---|---|
+| **Bashloom** | Automazione Bash affidabile, UX da terminale, CI, disciplina di release e governance open source. | [GitHub](https://github.com/matteodurso88/bashloom) |
+| **Sentinelux** | Sviluppo desktop Python/Linux, telemetria hardware e integrazione di sistema. | [GitHub](https://github.com/matteodurso88/sentinelux) · [Pagina prodotto](https://matt88.it/it/software/sentinelux/) |
+| **Home Energy Meter** | Monitoraggio energetico edge in ambiente reale: telemetria, dati storici, tariffe, logica di fatturazione, previsioni, API e dashboard. | [matt88.it](https://matt88.it/it/) |
+| **Sitiqo** | R&D di prodotto per sistemi energy/IoT connessi, dispositivi e siti virtuali, contratti edge-to-cloud e architettura orientata alla produzione. | [matt88.it](https://matt88.it/it/) |
+| **Oriqo** | Product engineering SaaS su frontend, backend, amministrazione, infrastruttura di esecuzione, sicurezza e governance operativa. | [Case study](https://matt88.it/it/projects/oriqo/) |
+| **Vistario** | Product engineering desktop multipiattaforma con Tauri, TypeScript e workflow dati locali/remoti. | [Pagina prodotto](https://matt88.it/it/software/vistario/) |
+
+Alcuni repository commerciali e R&D sono privati. I case study pubblici e le prove tecniche selezionate vengono pubblicati attraverso **matt88.it**.
+
+## Focus ingegneristico
+
+**Linguaggi**  
+Python · TypeScript · JavaScript · Bash · SQL · HTML · CSS
+
+**Applicazioni e piattaforme**  
+Vue · Nuxt · Node.js · REST API · Tauri · Qt for Python
+
+**Sistemi e infrastruttura**  
+Linux · Docker · systemd · Git · GitHub · CI/CD
+
+**Sistemi connessi**  
+MQTT · telemetria · Modbus/TCP · integrazione edge/IoT
+
+## Open source
+
+Utilizzo i progetti open source per rendere direttamente verificabili le pratiche ingegneristiche adottate: affidabilità, test, documentazione, manutenibilità e disciplina di release.
+
+- **[Bashloom](https://github.com/matteodurso88/bashloom)** — runtime Bash modulare e senza dipendenze obbligatorie per applicazioni shell affidabili, UX da terminale e automazione di sistema.
+- **[Sentinelux](https://github.com/matteodurso88/sentinelux)** — monitor hardware desktop Linux con alert termici e telemetria dalla tray di sistema.
+
+## Come lavoro
+
+- requisiti e perimetro definiti prima dell’implementazione;
+- architettura pragmatica e trade-off espliciti;
+- consegna iterativa e verificabile tramite test;
+- codice manutenibile e documentato;
+- attenzione ad affidabilità, sicurezza e deployment;
+- separazione chiara tra comportamento verificato, assunzioni e lavoro futuro.
+
+## Attività professionale
+
+Sono disponibile per progetti software selezionati che riguardano applicazioni, automazione, API, sistemi Linux e soluzioni connesse/edge.
+
+**Portfolio, case study e servizi:** [matt88.it](https://matt88.it/it/)
+
+## Contact / Contatti
 
 - **Website:** [matt88.it](https://matt88.it)
 - **Email:** [info@matt88.it](mailto:info@matt88.it)
-- **Location:** Catania, Italy
+- **Location / Sede:** Catania, Italy / Italia
