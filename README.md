@@ -1,91 +1,74 @@
-# Hi, I'm Matteo D’Urso 👋
+# Matteo D’Urso
 
-## Freelance Software Developer & Software Product Developer
+## Software & Product Engineer
 
-I design and build practical, maintainable software for professionals, small businesses and early-stage products.
+**Applications · Platforms · Automation · Linux · Edge/IoT**
 
-My work focuses on turning technical requirements, manual workflows and product ideas into working software:
+I design and build practical software systems end to end: from requirements and architecture to implementation, testing, deployment and technical documentation.
 
-- custom web applications and internal tools;
-- dashboards and administration interfaces;
-- desktop and Linux applications;
-- product prototypes and SaaS MVPs;
-- backend services and REST APIs;
-- integrations between external systems;
-- containerized development and deployment environments;
-- business-process automation;
-- edge/IoT discovery and integration.
-
-### AI-assisted development, human-controlled engineering
-
-I use AI-assisted workflows to accelerate analysis, prototyping, implementation and documentation. Architecture, scope, code review, testing, security decisions and delivery remain under direct human control.
-
-### Core engineering strengths
-
-- **Python** — backend services, automation, data processing, APIs and desktop applications with Qt;
-- **TypeScript / JavaScript** — full-stack development with Vue, Nuxt, Node.js and Nitro;
-- **Desktop and Linux software** — Tauri applications, Python/Qt tools and Linux integrations;
-- **Docker and containerized systems** — reproducible environments, multi-service applications and deployment-oriented workflows;
-- **Product engineering** — authentication, databases, dashboards, administration tools, APIs, deployment and technical documentation;
-- **Technical SEO and accessibility** — performance, semantic structure, internationalization and maintainable content architecture;
-- **Edge/IoT integration** — Linux edge systems, MQTT, GPIO and Modbus/TCP-based workflows.
-
-Additional working knowledge includes React, Next.js and Go. These technologies are used when appropriate, while the primary public portfolio currently demonstrates Python, TypeScript, Vue/Nuxt, Tauri, Qt, Docker and Linux-based systems.
+My work spans web and desktop applications, APIs, automation, Linux tooling, connected systems, telemetry and edge/IoT engineering. I focus on maintainable solutions that solve real business and technical problems rather than technology for its own sake.
 
 ## Selected work
 
-| Project | Description | Links |
+| Project | What it demonstrates | Links |
 |---|---|---|
-| **Vistario** | Local-first cross-platform desktop application built with Tauri and Nuxt. | [Product page](https://matt88.it/en/software/vistario/) |
-| **Sentinelux** | Open-source Linux tray utility for hardware monitoring and preventive thermal alerts. | [Product page](https://matt88.it/en/software/sentinelux/) |
-| **Oriqo** | Sanitized full-stack product case study covering coordinated applications, services and operational tools. | [Case study](https://matt88.it/en/projects/oriqo/) |
-| **Cabinet Edge Controller** | Linux edge/OT/IoT case study involving GPIO, MQTT, Modbus/TCP and remote-control workflows. | [Case study](https://matt88.it/en/projects/cabinet-edge/) |
-| **matt88.it** | Bilingual Nuxt website with structured content, technical SEO, first-party analytics and a controlled deployment workflow. | [Website](https://matt88.it/en/) |
+| **Bashloom** | Reliable Bash automation, terminal UX, CI, release discipline and open-source governance. | [GitHub](https://github.com/matteodurso88/bashloom) |
+| **Sentinelux** | Python/Linux desktop engineering, hardware telemetry and system integration. | [GitHub](https://github.com/matteodurso88/sentinelux) · [Product page](https://matt88.it/en/software/sentinelux/) |
+| **Home Energy Meter** | Real-world edge energy monitoring: telemetry, historical data, tariffs, billing logic, forecasting, APIs and dashboards. | [matt88.it](https://matt88.it/en/) |
+| **Sitiqo** | Product R&D for connected energy/IoT systems, virtual devices/sites, edge-to-cloud contracts and production-oriented architecture. | [matt88.it](https://matt88.it/en/) |
+| **Oriqo** | SaaS/product engineering across frontend, backend, administration, execution infrastructure, security and operational governance. | [Case study](https://matt88.it/en/projects/oriqo/) |
+| **Vistario** | Cross-platform desktop product engineering with Tauri, TypeScript and local/remote data workflows. | [Product page](https://matt88.it/en/software/vistario/) |
+
+Some commercial and R&D repositories are private. Public case studies and selected technical evidence are published through **matt88.it**.
+
+## Engineering focus
+
+**Languages**  
+Python · TypeScript · JavaScript · Bash · SQL · HTML · CSS
+
+**Applications & platforms**  
+Vue · Nuxt · Node.js · REST APIs · Tauri · Qt for Python
+
+**Systems & infrastructure**  
+Linux · Docker · systemd · Git · GitHub · CI/CD
+
+**Connected systems**  
+MQTT · telemetry · Modbus/TCP · edge/IoT integration
+
+## Open source
+
+I use open-source projects to make engineering practices directly inspectable: reliability, testing, documentation, maintainability and release discipline.
+
+- **[Bashloom](https://github.com/matteodurso88/bashloom)** — modular, dependency-free Bash runtime for reliable shell applications, terminal UX and system automation.
+- **[Sentinelux](https://github.com/matteodurso88/sentinelux)** — Linux desktop hardware monitor with thermal alerts and system-tray telemetry.
 
 ## How I work
 
-- clear objectives and controlled scope;
-- pragmatic technical decisions;
-- iterative and verifiable delivery;
+- requirements and scope before implementation;
+- pragmatic architecture and explicit trade-offs;
+- iterative, testable delivery;
 - maintainable and documented code;
-- attention to performance, accessibility, security and SEO;
-- explicit separation between verified facts, assumptions and future work.
+- attention to reliability, security and deployment;
+- clear separation between verified behavior, assumptions and future work.
 
-## Technology focus
+## Professional work
 
-**Languages**  
-Python · TypeScript · JavaScript · SQL · HTML · CSS
+I am available for selected software development projects involving applications, automation, APIs, Linux systems and connected/edge solutions.
 
-**Web and backend**  
-Vue · Nuxt · Node.js · Nitro · REST APIs · Redis · SQLite
-
-**Desktop and Linux**  
-Tauri · Qt for Python · Linux · systemd
-
-**Infrastructure and integration**  
-Docker · Git · GitHub · Vercel · MQTT · Modbus/TCP
-
-**Complementary experience**  
-React · Next.js · Go
+**Portfolio, case studies and services:** [matt88.it](https://matt88.it)
 
 ---
 
-## In italiano
+## Italiano
 
-Sono Matteo D’Urso, sviluppatore software freelance e Software Product Developer.
+Sono **Matteo D’Urso**, Software & Product Engineer.
 
-Progetto applicazioni web, desktop e Linux, strumenti interni, prototipi di prodotto e integrazioni tecniche. Trasformo requisiti complessi e processi manuali in software manutenibile, documentato e verificabile.
+Progetto e sviluppo applicazioni, piattaforme, automazioni, API, software Linux e sistemi edge/IoT. Seguo il lavoro dall’analisi dei requisiti e dall’architettura fino a implementazione, test, deployment e documentazione tecnica.
 
-Utilizzo workflow AI-assisted per accelerare analisi e implementazione, mantenendo il controllo diretto su architettura, qualità del codice, test, sicurezza e consegna.
-
-Portfolio, servizi e case study sono disponibili su [matt88.it](https://matt88.it/it/).
+Parte del mio lavoro commerciale e R&D rimane in repository privati; su GitHub pubblico progetti open source e prove tecniche selezionate, mentre case study e portfolio completi sono disponibili su **[matt88.it](https://matt88.it/it/)**.
 
 ## Contact
 
 - **Website:** [matt88.it](https://matt88.it)
 - **Email:** [info@matt88.it](mailto:info@matt88.it)
-- **Location:** Italy · Catania
-
-Open to selected freelance projects, technical collaborations and software product development.
-
-Disponibile per progetti freelance selezionati, collaborazioni tecniche e sviluppo di prodotti software.
+- **Location:** Catania, Italy
