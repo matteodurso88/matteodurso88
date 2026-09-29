@@ -14,10 +14,9 @@ My work spans web and desktop applications, APIs, automation, Linux tooling, con
 |---|---|---|
 | **Bashloom** | Reliable Bash automation, terminal UX, CI, release discipline and open-source governance. | [GitHub](https://github.com/matteodurso88/bashloom) |
 | **Sentinelux** | Python/Linux desktop engineering, hardware telemetry and system integration. | [GitHub](https://github.com/matteodurso88/sentinelux) · [Product page](https://matt88.it/en/software/sentinelux/) |
-| **Home Energy Meter** | Real-world edge energy monitoring: telemetry, historical data, tariffs, billing logic, forecasting, APIs and dashboards. | [matt88.it](https://matt88.it/en/) |
-| **Sitiqo** | Product R&D for connected energy/IoT systems, virtual devices/sites, edge-to-cloud contracts and production-oriented architecture. | [matt88.it](https://matt88.it/en/) |
+| **Home Energy Meter** | Real-world edge energy monitoring: telemetry, historical data, tariffs, billing logic, forecasting, APIs and dashboards. | [Case study](https://matt88.it/en/projects/home-energy-meter/) |
 | **Oriqo** | SaaS/product engineering across frontend, backend, administration, execution infrastructure, security and operational governance. | [Case study](https://matt88.it/en/projects/oriqo/) |
-| **Vistario** | Cross-platform desktop product engineering with Tauri, TypeScript and local/remote data workflows. | [Product page](https://matt88.it/en/software/vistario/) |
+| **Vistario** | Desktop product-engineering evidence from a parked private-code project, including local-first data workflows and optional remote synchronisation. | [Product page](https://matt88.it/en/software/vistario/) |
 
 Some commercial and R&D repositories are private. Public case studies and selected technical evidence are published through **matt88.it**.
 
@@ -75,10 +74,9 @@ Il mio lavoro comprende applicazioni web e desktop, API, automazione, tooling Li
 |---|---|---|
 | **Bashloom** | Automazione Bash affidabile, UX da terminale, CI, disciplina di release e governance open source. | [GitHub](https://github.com/matteodurso88/bashloom) |
 | **Sentinelux** | Sviluppo desktop Python/Linux, telemetria hardware e integrazione di sistema. | [GitHub](https://github.com/matteodurso88/sentinelux) · [Pagina prodotto](https://matt88.it/it/software/sentinelux/) |
-| **Home Energy Meter** | Monitoraggio energetico edge in ambiente reale: telemetria, dati storici, tariffe, logica di fatturazione, previsioni, API e dashboard. | [matt88.it](https://matt88.it/it/) |
-| **Sitiqo** | R&D di prodotto per sistemi energy/IoT connessi, dispositivi e siti virtuali, contratti edge-to-cloud e architettura orientata alla produzione. | [matt88.it](https://matt88.it/it/) |
-| **Oriqo** | Product engineering SaaS su frontend, backend, amministrazione, infrastruttura di esecuzione, sicurezza e governance operativa. | [Case study](https://matt88.it/it/projects/oriqo/) |
-| **Vistario** | Product engineering desktop multipiattaforma con Tauri, TypeScript e workflow dati locali/remoti. | [Pagina prodotto](https://matt88.it/it/software/vistario/) |
+| **Home Energy Meter** | Monitoraggio energetico edge in ambiente reale: telemetria, dati storici, tariffe, logica di fatturazione, previsioni, API e dashboard. | [Case study](https://matt88.it/it/progetti/home-energy-meter/) |
+| **Oriqo** | Product engineering SaaS su frontend, backend, amministrazione, infrastruttura di esecuzione, sicurezza e governance operativa. | [Case study](https://matt88.it/it/progetti/oriqo/) |
+| **Vistario** | Evidence di product engineering desktop da un progetto privato attualmente parked, con workflow dati local-first e sincronizzazione remota opzionale. | [Pagina prodotto](https://matt88.it/it/software/vistario/) |
 
 Alcuni repository commerciali e R&D sono privati. I case study pubblici e le prove tecniche selezionate vengono pubblicati attraverso **matt88.it**.
 
